@@ -1,0 +1,56 @@
+#Mensagens gerais do plugin
+Messages:
+  All:
+    NotADungeon: "&cVoce nao esta em nenhuma dungeon."
+    DungeonExit: "&cVoce saiu da fila da dungeon {dungeon_name}&c."
+    CommandNotReleased: "&cEsse comando esta proibido na dungeon!"
+  Rewards:
+    NoHaveRewards: "&cVoce nao possui &erecompensas &cpara coletar."
+    Collected:
+      - ""
+      - "&a&lYEAH! &aVice coletou todas as suas &erecompensas&a!"
+      - ""
+  Boss:
+    BossSpawned:
+      - ""
+      - "&a&lOPA! &aO Boss {phase_boss_name} &aacabou de &cnascer&a!"
+      - ""
+      - "&fJunte-se aos seus aliados e o &cmate-o&f!"
+    BossKilled: "&aOU! &aO boss {phase_boss_name} &ada fase {dungeon_phase_name} &afoi &cmorto&a!"
+  Phases:
+    NextPhase:
+      - "&aParabes! Voce passou para a fase {dungeon_phase_name}&a!"
+      - ""
+      - "&fOs &cMonstros vao aparecer em &e30 segundos&f!"
+    LastPhase: "&aParabens! Voce chegou na ultima fase!"
+    MaxLimit: "&c&lOPS! &cEssa dungeon ja atigiu o maximo de jogadores!"
+  InLine:
+    Message:
+      - ""
+      - "&aVoce entrou na fila da &6dungeon {dungeon_name}&a!"
+      - ""
+      - "&fCaso queira &cSair &fso usar o comando &6/dungeon sair&f."
+  Starting:
+    Title: "&6&lDUNGEON"
+    SubTitle: "&fA dungeon ira começar!"
+    Message:
+      - ""
+      - "&aYeah! A &6dungeon &aira começar em &e30 segundos&f!"
+      - ""
+      - "&fSe prepare para enfrentar &cmonstros fortes&f!"
+  Started:
+    Title: "&6&lDUNGEON"
+    SubTitle: "&fA dungeon começou!"
+    Message:
+      - ""
+      - "&aYeah! A &6dungeon &acomeçou!"
+      - ""
+      - "&fA primeira horda de &cMonstros &fchegou&f!"
+  Completed:
+    Title: "&6&lPARABENS!"
+    SubTitle: "&fVoce concluiu a dungeon!"
+    Message:
+      - ""
+      - "&aYeah! Voce concluiu a dungeon com exito!"
+      - ""
+      - "&fUtilize &e/dungeon coletar &fpara coletar suas &erecompensas&f!"

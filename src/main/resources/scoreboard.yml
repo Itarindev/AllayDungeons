@@ -1,0 +1,11 @@
+Scoreboard:
+  Title: "&6&lAllay Dungeons"
+  Lines:
+    - "&7&m------------------"
+    - "&aDungeon: &f{dungeon_name}"
+    - "&aFase: &f{current_phase}/{total_phases}"
+    - "&aVivos: &f{players_alive}"
+    - "&aMobs: &f{alive_mobs}/{total_mobs}"
+    - "&aMobs Mortos: &f{killed_mobs}"
+    - "&aEstado: &f{dungeon_state}"
+    - "&7&m------------------"

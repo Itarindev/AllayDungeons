@@ -1,0 +1,13 @@
+#Configuração de conexão
+MySQL:
+  Active: false
+  Host: "localhost:3306"
+  Database: "database"
+  User: "root"
+  Password: ""
+
+#Comandos permitidos usar na dungeon
+CommandsReleased:
+  - "tell"
+  - "g"
+  - ""

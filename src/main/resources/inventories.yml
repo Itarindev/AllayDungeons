@@ -1,0 +1,15 @@
+Inventories:
+  Dungeon:
+    Name: "&7Dungeons do Servidor"
+    Size: 45
+    Slots: [10, 11, 12, 13, 14, 15, 16, 19, 20 ,21 ,22, 23, 24, 25, 28, 29, 30, 31, 32, 33, 34, 37, 38, 39, 40, 41, 42, 43]
+    Item:
+      Title: "{dungeon_name}"
+      Lore:
+        - ""
+        - "&fJogadores Minimo: &6{dungeon_min_players}"
+        - "&fFases: &6{dungeon_phases}"
+        - "&fEstado: &6{dungeon_state}"
+        - ""
+        - "&fStatus: &6{dungeon_status}"
+        - ""
